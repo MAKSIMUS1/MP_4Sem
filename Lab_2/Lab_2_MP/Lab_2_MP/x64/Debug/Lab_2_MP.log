@@ -1,0 +1,6 @@
+﻿  Boat.cpp
+  Combi.cpp
+D:\BSTU\Kurs_2_2\MP\Lab_2\Lab_2_MP\Lab_2_MP\Combi.cpp(42,48): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+  Lab_2_MP.cpp
+  Создание кода...
+  Lab_2_MP.vcxproj -> D:\BSTU\Kurs_2_2\MP\Lab_2\Lab_2_MP\x64\Debug\Lab_2_MP.exe
